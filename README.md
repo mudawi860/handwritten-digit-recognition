@@ -78,6 +78,6 @@ The system could be further improved by:
 ## Relevant Chapters from Deep Learning with Python
 
 - Chapter 8: Image classification
-- 
+  
  ## SDAIA Academy GitHub Repository Link
 https://github.com/mudawi860/handwritten-digit-recognition
